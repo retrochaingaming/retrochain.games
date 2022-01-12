@@ -1,6 +1,6 @@
 {
     "name": "retrochain.games",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "RetroChain Gaming homepage",
     "author": "RetroChain Gaming LLC",
     "dependencies": {
